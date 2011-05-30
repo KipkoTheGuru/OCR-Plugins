@@ -1,0 +1,12 @@
+target/
+.classpath
+.project
+.settings/
+
+temp/
+.svn/
+.svn-base/
+
+*.jar/
+*.save
+*.orig
